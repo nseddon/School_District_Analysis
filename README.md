@@ -23,6 +23,8 @@ Original Analysis District Summary
 Updated Analysis District Summary
 ![Updated Analysis District Summary.png](https://github.com/nseddon/School_District_Analysis/blob/main/Resources/README%20examples/Updated_district_summary.PNG)
 
+By removing the 9th grade class from the testing results, the district overall saw a minor decrease in testing scores.
+
 How is the school summary affected?
 
 
