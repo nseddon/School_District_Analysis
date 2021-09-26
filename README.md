@@ -16,11 +16,11 @@ the following was performed:
     - Determine the overall impact of the removal of these scores for the school and the district.
 
 ## Results: 
-For the below results, examples of code and results will be displayed.  The original analysis results will be shown on the left, while the 
-altered data set removing the Thomas High 9th graders will be displayed on the right.
-
-How is the district summary affected?
+### How is the district summary affected?
+Original Analysis District Summary
 ![Original Analysis District Summary.png](https://github.com/nseddon/School_District_Analysis/blob/main/Resources/README%20examples/Original_district_summary.PNG)
+
+Updated Analysis District Summary
 ![Updated Analysis District Summary.png](https://github.com/nseddon/School_District_Analysis/blob/main/Resources/README%20examples/Updated_district_summary.PNG)
 
 How is the school summary affected?
