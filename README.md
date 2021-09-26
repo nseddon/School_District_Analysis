@@ -20,7 +20,7 @@ For the below results, examples of code and results will be displayed.  The orig
 altered data set removing the Thomas High 9th graders will be displayed on the right.
 
 How is the district summary affected?
-
+![Green_stocks_2017.png](https://github.com/nseddon/Stock-Analysis/blob/main/Module_Prep/green_stocks_2017.png)
 
 
 How is the school summary affected?
