@@ -11,7 +11,7 @@ The original purpose of the analysis was to determine key district metrics for t
     
 Upon completion of the analysis, possible academic dishonesty was alleged amongst 9th graders of Thomas High School.  Upon request by the board, 
 the following was performed:
-- replaced all 9th grade test scores exclusively for Thomas High School with NaN (Not Available Now).
+- Replaced all 9th grade test scores exclusively for Thomas High School with NaN (Not Available Now).
 - Re-perform the above original analysis with this altered data.
 - Determine the overall impact of the removal of these scores for the school and the district.
 
